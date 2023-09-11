@@ -9,7 +9,7 @@ servers:
 paths:
   /rfqs:
     post:
-      operationId: requestQuote
+      operationid: requestQuote
       requestBody:
         content:
           application/json:
