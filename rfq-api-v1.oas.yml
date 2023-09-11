@@ -23,6 +23,8 @@ components:
   schemas:
     Quotation:
       type: object
+      required:
+        - id
       properties:
         id:
           type: string
